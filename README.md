@@ -12,6 +12,17 @@ Its clean UI, smooth gradients, and intuitive controls help you focus on what ma
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/pdshah09/TodoNest/blob/main/screenshots/Screenshot%201.png" width="30%" />
+  <img src="https://github.com/pdshah09/TodoNest/blob/main/screenshots/Screenshot%202.png" width="30%" />
+  <img src="https://github.com/pdshah09/TodoNest/blob/main/screenshots/Screenshot%203.png" width="30%" />
+  <img src="https://github.com/pdshah09/TodoNest/blob/main/screenshots/Screenshot%204.png" width="30%" />
+</p>
+
+---
+
 ## Features
 
 ### Core Functionalities
